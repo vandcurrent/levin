@@ -1,0 +1,9 @@
+- penjualan di cs
+- jasa cetak nota belum semua field kepanggil di cs
+- pembayaran di kasir(penjualan dan jasa) dan gudang(pembelian)
+- pembelian di gudang
+- kartu stok di cs 
+
+
+bagian keuangan
+-jurnal
